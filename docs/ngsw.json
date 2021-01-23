@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
   "timestamp": 1611440401449,
-  "index": "/index.html",
+  "index": "https://jaderguerra.github.io/ionic-start-wars/index.html",
   "assetGroups": [
     {
       "name": "app",
